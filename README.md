@@ -18,8 +18,8 @@
 
 - 🛠 **Skills and Technologies:**
 - **Programming Languages:** Proficient in Python and JavaScript and SQL currently learning JAVA, C#, and postgresql. Experienced with frameworks and libraries such as React, Flask, Spring Boot, and libGDX.
-  - **Tools and Platforms:** Adept at using AWS, Docker, Git, and various CI/CD tools to streamline development processes and enhance productivity.
-  - **Machine Learning & Data Science:** Passionate about machine learning and data science with hands-on experience in libraries like TensorFlow, PyTorch, and Scikit-Learn. Currently exploring advanced topics in deep learning and natural language processing.
+- **Tools and Platforms:** Adept at using AWS, Git, and various CI/CD tools to streamline development processes and enhance productivity.
+- **Machine Learning & Data Science:** Passionate about machine learning and data science with hands-on experience in libraries like  PyTorch, and Scikit-Learn. Currently exploring advanced topics in deep learning and natural language processing.
 
 - 🌱 **Learning and Growth:**
   - **Continuous Learning:** Committed to lifelong learning through online courses, workshops, and conferences to keep up with the rapidly evolving tech landscape.
