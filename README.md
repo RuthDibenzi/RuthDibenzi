@@ -13,7 +13,7 @@
 
 - 🚀 **Project Highlights:**
   - **Educational Game Development:** Developed an engaging educational game to teach shared mobility concepts using Java and the libGDX framework. This project emphasizes interactive learning and practical application of mobility principles. [Explore the project](https://github.com/RuthDibenzi/Java)
-  - **Open Source Contributions:** Actively contributing to various open-source projects, where I collaborate with developers worldwide to enhance software solutions and contribute to community-driven initiatives.
+  
   - **Personal Projects:** Working on several personal projects that involve full-stack development, machine learning, and automation to stay on the cutting edge of technology and apply new skills in real-world scenarios.
 
 - 🛠 **Skills and Technologies:**
