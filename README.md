@@ -17,7 +17,7 @@
   - **Personal Projects:** Working on several personal projects that involve full-stack development, machine learning, and automation to stay on the cutting edge of technology and apply new skills in real-world scenarios.
 
 - 🛠 **Skills and Technologies:**
-  - **Programming Languages:** Proficient in Java, Python, JavaScript, C#, and SQL. Experienced with frameworks and libraries such as React, Flask, Spring Boot, and libGDX.
+- **Programming Languages:** Proficient in Python and JavaScript and SQL currently learning JAVA, C#, and postgresql. Experienced with frameworks and libraries such as React, Flask, Spring Boot, and libGDX.
   - **Tools and Platforms:** Adept at using AWS, Docker, Git, and various CI/CD tools to streamline development processes and enhance productivity.
   - **Machine Learning & Data Science:** Passionate about machine learning and data science with hands-on experience in libraries like TensorFlow, PyTorch, and Scikit-Learn. Currently exploring advanced topics in deep learning and natural language processing.
 
