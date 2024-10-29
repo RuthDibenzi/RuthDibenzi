@@ -31,7 +31,7 @@
 
 - 💬 **Interests:** Beyond coding, I enjoy exploring new technologies, contributing to tech communities, and working on creative projects that merge technology with art and design.
 
-- 📫 **Reach Out:** Feel free to connect with me via email at **Dibenziruth1@gmail.com** or follow me on [LinkedIn](https://linkedin.com/in/ruth-dibenzi) to stay updated on my latest projects and insights.
+- 📫 **Reach Out:** Feel free to connect with me via email at **Dibenziruth1@gmail.com** or follow me on [LinkedIn]((https://www.linkedin.com/in/ruth-d-097a49212/)) to stay updated on my latest projects and insights.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
