@@ -7,7 +7,6 @@ I'm a MSC computer science graduate with a background in law, currently diving d
 
 - 💻 Building microservices with **Spring Boot, Docker, and Kubernetes**
 - 🏗️ Deploying cloud-based applications with **AWS (EC2, S3, RDS, IAM)**
-- 🔄 Strengthening my **Java, DSA, and LeetCode** skills for tech interviews
 - 📚 Exploring **API Gateway & Security, PostgreSQL, and Graphql** to build scalable and secure backend systems  
 
 ## 🎯 Goals
