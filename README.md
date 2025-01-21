@@ -9,11 +9,6 @@ I'm a MSC computer science graduate with a background in law, currently diving d
 - 🏗️ Deploying cloud-based applications with **AWS (EC2, S3, RDS, IAM)**
 - 📚 Exploring **API Gateway & Security, PostgreSQL, and Graphql** to build scalable and secure backend systems  
 
-## 🎯 Goals
-
-- 🚀 Building high-performance, scalable, and distributed backend systems.
-- 📈 Mastering cloud-native architectures and microservices.
-- 👉 Enhancing system reliability through observability, monitoring, and DevOps best practices.
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ruth-d-097a49212/))  
